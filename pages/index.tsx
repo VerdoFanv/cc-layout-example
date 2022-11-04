@@ -14,11 +14,11 @@ export default function Home() {
         marginLeft: 'auto',
         marginRight: 'auto',
         padding: 5,
-        width: 250,
+        width: 200,
         borderWidth: 1,
         borderColor: '#000',
         borderStyle: 'solid',
-        height: 500,
+        height: 400,
         overflowY: 'scroll'
       }}>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex corrupti quibusdam, modi molestias neque eos quis accusamus nam expedita veniam enim quia asperiores in dolore ea? Sed laboriosam illum beatae maiores nisi esse ea autem harum suscipit repellat, tempore illo numquam quod eius dolorum tenetur sapiente quis soluta unde magnam?</p>
